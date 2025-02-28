@@ -1,0 +1,11 @@
+.wrapperDiv {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.playerSpan {
+    font-size: 20px;
+    color:#ff7f7f;
+    margin-left: 5px;
+}

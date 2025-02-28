@@ -29,3 +29,26 @@
 .small {
   font-size: 0.75rem;
 }
+
+.active {
+  color: #c85a5a
+}
+
+li {
+  list-style: none;
+  float: left;
+  margin: 0px 5px;
+}
+
+li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.1rem;
+}
+
+.navbar {
+  height: 2rem;
+  background-color: #94ebb0;
+  padding-top: .9rem;
+  padding-bottom: .6rem;
+}
